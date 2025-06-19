@@ -1,0 +1,24 @@
+{
+  "dialogTitle": "YAMMY MODS",
+  "apiKey": "9b237ab24a97b98f2fdd1797ffa0b2e7a70aa8e4",
+  "apiDomain": "arlinks.in",
+  "firebaseDbUrl": "https://devapps-cbbc4-default-rtdb.asia-southeast1.firebasedatabase.app",
+  "tokenRequestUrl": "https://myappsdev.netlify.app/.netlify/functions/request-token",
+
+  "verification": {
+    "longUrl": "https://myappsdev.netlify.app/verify",
+    "useHours": true,
+    "durationHours": 6,
+    "durationMinutes": 5
+  },
+
+  "links": {
+    "joinUs": "https://t.me/YammyMods",
+    "contact": "https://t.me/GG_YAMIN",
+    "tutorial": "https://youtube.com/@yaminahmed?si=RyfMAqKiFz7I8gg3"
+  },
+
+  "expireSystem": {
+    "enabled": false
+  }
+}
